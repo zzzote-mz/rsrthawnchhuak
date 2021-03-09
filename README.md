@@ -13,7 +13,7 @@ A Junction Bot which can forward messages from one chat to multiple chats. This 
 
 #### The Easy Way
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Anandpskerala/JunctionBot/tree/v1)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/RSR-Downloader/rsrthawnchhuak/tree/v1)
 
 #### The Hard Way
 
@@ -26,9 +26,9 @@ python3 -m bot
 
 ## Community
 
-- Telegram Support Chat : [@KeralasBots](https://telegram.dog/KeralasBots)
-- Telegram Updates Channel : [KeralaBotsNews](https://telegram.dog/KeralaBotsNews)
+- Telegram Support Chat : [@rsrmusic](https://telegram.dog/rsrmusic)
+- Telegram Updates Channel : [Mizo Library](https://telegram.dog/mizolibrary)
 
 ## Contributions
 
-Contributions are always accepted. Feel free to commit. With ❤️ Anand
+Contributions are always accepted. Feel free to commit. With ❤️ RSR
